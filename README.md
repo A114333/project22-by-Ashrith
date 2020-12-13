@@ -1,1 +1,1 @@
-# p5.boilerplate
+# p5.boilerplate.js
